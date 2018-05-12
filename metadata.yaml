@@ -1,0 +1,28 @@
+_repo: Some-Personal-Recollections-of-Dr.-Janeway_24699
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, James Bayard
+    birthdate: 1869
+    gutenberg_agent_id: '26681'
+    url: http://www.gutenberg.org/2009/agents/26681
+description: ''
+gutenberg_issued: '2008-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24699'
+  lccn: '17017092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- United States -- Biography'
+- !lcc 'CT'
+- !lcsh 'Janeway, Edward Gamaliel, 1841-1911'
+- !lcc 'R'
+title: Some Personal Recollections of Dr. Janeway
+url: http://www.gutenberg.org/ebooks/24699
